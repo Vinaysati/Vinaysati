@@ -64,7 +64,12 @@
               <br>
               <strong>API Student Expert</strong>
               <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
+              <span style="font-size: 12px; color: #777777;">Postman</span>  
+		    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/Vinaysati/gssoc.png/blob/main/Legend%20Badge.png" alt="Conqueror Badge" width="80" />
+              <br>
+              <strong>Conqueror Badge</strong>
+            </td>
             </td>
           </tr>
         </table>

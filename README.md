@@ -1,4 +1,3 @@
-
 ## :zap: Open Source Programs & Achievements
 
 <div align="center">
@@ -6,7 +5,7 @@
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="">
-          <img src="https://github.com/Vinaysati/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code</strong>
         </a>
@@ -24,44 +23,44 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Explorer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Adventurer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Champion Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Summit Seeker Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Innovator Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Innovator Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Conqueror Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
               <br>
               <strong>Conqueror Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/Vinaysati/gssoc.png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="https://raw.githubusercontent.com/Vinaysati/gssoc/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
               <br>
